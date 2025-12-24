@@ -32,7 +32,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 shadow-sm backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between px-4 md:px-6">
         <Link to="/" className="flex items-center gap-2 font-bold text-lg text-pharmacy-blue-700 hover:text-pharmacy-blue-900 transition-colors">
-          <img src="/public/img/medicare-logo.jpg" alt="MediCare Logo" className="h-8 w-8 rounded-full" />
+          <img src="/img/medicare-logo.jpg" alt="MediCare Logo" className="h-8 w-8 rounded-full" />
           MediCare
         </Link>
 

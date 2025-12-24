@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container grid grid-cols-1 md:grid-cols-4 gap-8 px-4 md:px-6">
         <div className="space-y-4">
           <Link to="/" className="flex items-center gap-2 font-bold text-lg text-pharmacy-blue-700 hover:text-pharmacy-blue-900 transition-colors">
-            <img src="/public/img/medicare-logo.jpg" alt="Pharmacy Logo" className="h-8 w-8 rounded-full" />
+            <img src="/img/medicare-logo.jpg" alt="Pharmacy Logo" className="h-8 w-8 rounded-full" />
             MediCare
           </Link>
           <p className="text-sm text-muted-foreground">

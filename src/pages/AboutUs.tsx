@@ -27,7 +27,7 @@ const AboutUs = () => {
         </div>
         <div className="flex justify-center">
           <img
-            src="/public/img/medicare-logo.jpg"
+            src="/img/medicare-logo.jpg"
             alt="Our Story"
             className="rounded-lg shadow-lg max-w-full h-auto object-cover"
           />
